@@ -1,3 +1,3 @@
 This is a new README file
 
-This is an edit on the main branch
+This is an edit on the branch
