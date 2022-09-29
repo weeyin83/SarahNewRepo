@@ -1,2 +1,1 @@
-# SarahNewRepo
- New test repo for GitHub Desktop
+This is a new README file
